@@ -3,7 +3,7 @@
 > **⚠️ WORK IN PROGRESS — This toolkit is not finished yet. last update: 11/10/26
 **
 
-> **⚠️ READ THIS — run emegency_clean.bat and replicatedpc_check.bat tools as administrator or else they will not work.
+> **⚠️ READ THIS — run emegency_clean.bat and replicatedpc_check.bat / any tools as administrator or else they will not work.
 **
 
 **Completely open source.** Use it, fork it, improve it.
