@@ -1,1 +1,11 @@
+[req]
+distinguished_name = req_dn
+x509_extensions = v3_req
+prompt = no
+
+[req_dn]
+CN = trinity.ac
+
+[v3_req]
+subjectAltName = DNS:trinity.ac,DNS:www.trinity.ac,DNS:api.trinity.ac,DNS:*.trinity.ac
 
