@@ -6,7 +6,7 @@
 
 **Credits:** [@snippetcarried](https://github.com/snippetcarried) (meko) · [@lovecooler](https://github.com/lovecooler) (cooler)
 
-Full bypass suite for **Trinity**, a Roblox PC checker. Built from IDA Pro reverse engineering of the Nuitka-compiled binary (`Trinity.exe`).
+Full bypass suite for **[Trinity](https://trinity.ac/)**, a Roblox PC checker. Built from IDA Pro reverse engineering of the Nuitka-compiled binary (`Trinity.exe`).
 
 Includes a MITM proxy for PIN bypass + result interception, two forensic cleaners (CMD stealth + PowerShell), a complete reverse engineering database, and one-click launchers.
 
